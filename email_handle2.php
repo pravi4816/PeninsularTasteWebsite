@@ -1,4 +1,4 @@
-<?
+<?php
 $name = $_REQUEST['name'];
 $phone = $_REQUEST['phone'];
 $msg = $_REQUEST['msg'];
